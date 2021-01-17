@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">library</string>
+    <string name="book_list">도서 목록</string>
+    <string name="string_no_result">검색 결과가 없습니다</string>
+    <string name="search">search</string>
+    <string name="search_bar_hint">여기서 검색</string>
+</resources>
